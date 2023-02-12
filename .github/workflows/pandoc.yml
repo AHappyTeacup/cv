@@ -1,0 +1,26 @@
+name: pandoc
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Create Output Dir
+        run: mkdir output
+
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: >-
+            --standalone
+            -V colorlinks
+            -V urlcolor=NavyBlue
+            -V geometry:"top=2cm, bottom=1.5cm, left=1.5cm, right=1.5cm"
+            -o AaronHickey_CV.pdf
+            README.md
+
+      - uses: actions/upload-artifact@master
+        with:
+          path: AaronHickey_CV.pdf
