@@ -30,8 +30,7 @@ Following Microsoft's acquisition of Metaswitch Networks, I was working on the S
 - Managing legacy GitLab repos, Jenkins pipelines, and VMWare infrastructure.
 - Contributing to other technical teams' projects during periods of low workload.
 - Presenting new and proposed features and projects to my team, and other teams.
-- Providing technical documentation to my team, and our users, 
-on how to install upgrades or how to use new features.
+- Providing technical documentation to my team and our users, on installation guides and new features.
 - Manipulating Excel data directly, and through Python.
 
 ##### Key Achievements
