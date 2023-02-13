@@ -48,6 +48,7 @@ moving from Commissioning, to the Commissioning Tools Team, to the Subscriber Mi
 - Troubleshooting customer network and switch configuration using linux command tools.
 - Working with customers to set up and deploy Metaswitch software within their networks.
 - Managing an in-house delivery-automation platform, driven through a CherryPy web front-end.
+- Agile teamwork to deliver bug fixes and tools updates to the customer delivery team.
 
 ##### Key Achievements
 - Built an automated JIRA workflow by utilising JIRA's webhooks, JIRA's APIs, and a custom CherryPy API to assess and filter actionable items to our delivery team.
