@@ -14,14 +14,21 @@ jobs:
       - uses: docker://pandoc/latex:2.9
         with:
           args: >-
-            --standalone
             -V colorlinks
             -V urlcolor=NavyBlue
-            -V geometry:"top=1in, bottom=1in, left=1in, right=1in"
+            -V geometry:"top=1in, bottom=1in, left=0.5in, right=0.5in"
             -V documentclass:"report"
-            -o AaronHickey_CV.pdf
+            -o output/AaronHickey_CV.pdf
+            README.md
+
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: >-
+             --reference-doc="custom-reference.docx"
+            -o output/AaronHickey_CV.docx
             README.md
 
       - uses: actions/upload-artifact@master
         with:
-          path: AaronHickey_CV.pdf
+          name: output
+          path: output
