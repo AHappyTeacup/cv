@@ -15,9 +15,9 @@ and  I am incredibly keen to learn new technologies and find new opportunities t
 
 ## Professional Experience
 
-### [Microsoft], Belfast, _(February 2021-Present)_
-**Python Developer**\
-Following Microsoft's acquisition of Metaswitch Networks, I began working on the Subscriber Migrations Tools Development team.
+### Python Developer, [Microsoft]
+#### Belfast, _(February 2021-Present)_
+Following Microsoft's acquisition of Metaswitch Networks, I moved to the Subscriber Migrations Tools Development team.
 
 ##### Key Achievements
 - Worked directly with customers to design and deliver python scripts to automate large network changes.
@@ -25,16 +25,17 @@ Following Microsoft's acquisition of Metaswitch Networks, I began working on the
 - Migrated CORBA tooling from Python to Java as security requirements changed.
 
 ##### Duties & Responsibilities
-- Working within a team to react and respond to feature requests and bug reports raised by the Subscriber Migrations Engineering Team.
-- Prioritising enhancements and tech debt catalogued in a JIRA dashboard.
+- Maintaining a python codebase used by the Subscriber Migrations Team.
+- Working within a team to react and respond to feature requests and bug reports.
+- Prioritising enhancements, bug fixes, and addressing tech debt.
 - Managing legacy GitLab repos, Jenkins pipelines, and VMWare infrastructure.
-- Contributing to other technical teams' projects during periods of low workload.
-- Presenting new and proposed features and projects to my team, and other teams.
-- Providing technical documentation to my team and our users, on installation guides and new features.
+- Contributing to other developmentg teams' projects during periods of low workload.
+- Presenting new and proposed features and projects to my teams.
+- Providing technical documentation on features and their usage to my team and our users.
 
-### [Metaswitch Networks], Belfast, _(January 2018 - February 2021)_
-**Python Developer**\
-The Professional Services Tools Team was established to take ownership of and improve our existing automation tooling.
+### Python Developer, [Metaswitch Networks]
+#### Belfast, _(January 2018 - February 2021)_
+I was selected to start the Professional Services Tools Team, which was established to take ownership of and improve existing automation tooling.
 
 ##### Key Achievements
 - Built an automated JIRA workflow by utilising JIRA's webhooks, JIRA's APIs, and a custom CherryPy API to assess and filter actionable items to the Professional Services team.
@@ -46,9 +47,9 @@ The Professional Services Tools Team was established to take ownership of and im
 - Agile teamwork to deliver bug fixes and tools updates to the automation platform.
 - Fulfilling additional automation requirements and requests from the Professional Services team.
 
-### [Metaswitch Networks], Belfast, _(October 2016 - January 2018)_
-**Commissioning Engineer**\
-A 9-week [Assured Skills Academy], which acted as both training and interview for a position at Metaswitch Networks.
+### Commissioning Engineer, [Metaswitch Networks]
+#### Belfast, _(October 2016 - January 2018)_
+I attended a 9-week Assured Skills Academy, which acted as both training and interview for a position at Metaswitch Networks.
 I succeeded and joined 14 other applicants in setting up a new Belfast office for the London-based telecoms company.
 
 ##### Key Achievements
@@ -62,38 +63,48 @@ I succeeded and joined 14 other applicants in setting up a new Belfast office fo
 - Troubleshooting customer network and switch configuration using linux tools.
 
 ## IT Skills
-| | | |
-|:---|:---|:---|
-| Ansible | Azure | CORBA
-| HTTP | Java | Javascript
-| JSON | Linux | Microsoft Office
-| Python | PyCharm | REST APIs
-| SIP | SQL | TCP/IP
-| VMWare | VBA | VoIP
-| Windows | Yaml
+**Concepts**:\
+Agile Development, Data Structures & Algorithms, Object-Oriented Programming, VoIP
+
+**Languages**:\
+HTML, Java, Javascript, Python, SQL, VBA
+
+**Protocols**:\
+CORBA, HTTP, REST APIs, SIP, TCP/IP
+
+**Technologies**:\
+Ansible, Azure, JIRA, JSON, Linux, Microsoft Office, PyCharm, VMWare, Windows, Yaml
 
 ## Education and Training
-| | | |
-|:---|:---|:---|
-| Certification | **Azure Engineering Boot Camp** | **[Microsoft], Internal** |
-| | 5-day course on Azure fundamentals. | _July 2021_ |
-| Certification | **Customer Excellence** | **[SMT](https://smt-solutions.com/)** |
-| | 1-week course on understanding and delivering Customer Excellence. | _October 2016_ |
-| Certification | **[Assured Skills Academy], Metaswitch** | **[Belfast Metropolitan College]** |
-| | 9-week course covering Customer Service, Networking, SIP, and VoIP fundamentals. | _October 2016 - December 2016_ |
-| BSc, 2:1 | **[Computational Thinking]** |  **[Maynooth University]** |
-| | A blend of pure mathematics, core computer science, and philosophy modules. | _September 2013 - May 2016_ |
+
+### Azure Engineering Boot Camp
+#### [Microsoft] Internal, _July 2021_
+Completed a 5-day course on Azure fundamentals.
+
+### Customer Excellence
+#### [SMT](https://smt-solutions.com/), _October 2016_
+Completed a 1-week course on understanding and delivering Customer Excellence.
+
+### Metaswitch [Assured Skills Academy]
+#### [Belfast Metropolitan College], _October 2016 - December 2016_
+Completed a 9-week course covering Customer Service, Networking, SIP, and VoIP fundamentals.
+
+### [BSc in Computational Thinking]
+#### [Maynooth University], _September 2013 - May 2016_
+Achieved a 2:1. A blend of pure mathematics, core computer science, and philosophy modules.
 
 ## Interests / Hobbies
-| | | |
-|---|---|---|
-| Cycling | Hiking | Home Automation
-| Music | Tabletop games | Videogames
+- Cycling
+- Hiking
+- Home Automation
+- Music
+- Tabletop games
+- Videogames
 
 **References available on request.**
 
 [Assured Skills Academy]: https://www.economy-ni.gov.uk/articles/assured-skills-programme
-[Computational Thinking]: https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bsc-computational-thinking
+[BSc in Computational Thinking]: https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bsc-computational-thinking
 [Belfast Metropolitan College]: https://www.belfastmet.ac.uk/
 [Maynooth University]: https://www.maynoothuniversity.ie/
 [Metaswitch Networks]: https://www.metaswitch.com/

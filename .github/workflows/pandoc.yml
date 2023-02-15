@@ -16,7 +16,7 @@ jobs:
           args: >-
             -V colorlinks
             -V urlcolor=NavyBlue
-            -V geometry:"top=1in, bottom=1in, left=0.5in, right=0.5in"
+            -V geometry:"top=0.5in, bottom=0.5in, left=0.5in, right=0.5in"
             -V documentclass:"report"
             -o output/AaronHickey_CV.pdf
             README.md
