@@ -29,7 +29,7 @@ Following Microsoft's acquisition of Metaswitch Networks, I moved to the Subscri
 - Working within a team to react and respond to feature requests and bug reports.
 - Prioritising enhancements, bug fixes, and addressing tech debt.
 - Managing legacy GitLab repos, Jenkins pipelines, and VMWare infrastructure.
-- Contributing to other developmentg teams' projects during periods of low workload.
+- Contributing to other development teams' projects during periods of low workload.
 - Presenting new and proposed features and projects to my teams.
 - Providing technical documentation on features and their usage to my team and our users.
 
@@ -64,16 +64,16 @@ I succeeded and joined 14 other applicants in setting up a new Belfast office fo
 
 ## IT Skills
 **Concepts**:\
-Agile Development, Data Structures & Algorithms, Object-Oriented Programming, VoIP
+Object-Oriented Programming, Data Structures & Algorithms, Agile Development, VoIP
 
 **Languages**:\
-HTML, Java, Javascript, Python, SQL, VBA
+Python, HTML, Java, Javascript, SQL, VBA
 
 **Protocols**:\
-CORBA, HTTP, REST APIs, SIP, TCP/IP
+HTTP, SIP, TCP/IP, REST, CORBA
 
 **Technologies**:\
-Ansible, Azure, JIRA, JSON, Linux, Microsoft Office, PyCharm, VMWare, Windows, Yaml
+PyCharm, Yaml, JSON, Ansible, Microsoft Office, Linux, Windows, Azure, VMWare, JIRA
 
 ## Education and Training
 
